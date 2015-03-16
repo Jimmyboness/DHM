@@ -173,7 +173,11 @@ nav {
     text-align: center;
     margin-bottom: 75px;
     h4 {
-        font-weight: bold;}
+        font-weight: bold;
+    }
+    a {
+        color: $link;
+    }
 }
 
 
